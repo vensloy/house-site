@@ -1,6 +1,10 @@
+import './css/header.css'
+
 const App = () => {
   return (
-    <></>
+    <header>
+
+    </header>
   )
 }
 
