@@ -1,0 +1,48 @@
+/* ---- Hero section ---- */
+
+.hero {
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+
+    font-family: 'Raleway';
+}
+
+.bird-hero-img {
+    width: 600px;
+}
+
+.heading-hero {
+    font-size: 60px;
+    font-weight: 500;
+
+    padding-top: 170px;
+}
+
+.heading-name {
+    color: #598D66;
+}
+
+.right-hero {
+    gap: 25px;
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+}
+
+.right-hero-text {
+    color: #86928B;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.products-button {
+    background-color: white;
+    border-color: #598D66;
+    border-width: 1px;
+    border-style: solid;
+
+    color: #598D66;
+
+    padding: 20px 60px;
+}
