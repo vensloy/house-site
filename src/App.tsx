@@ -23,7 +23,9 @@ const App = () => {
       </header>
 
       <main>
-
+        <section className='hero'>
+          
+        </section>
       </main>
     </>
   )
