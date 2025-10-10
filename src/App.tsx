@@ -33,6 +33,17 @@ const App = () => {
             <button className='products-button'>Продукция</button>
           </section>
         </section>
+
+        <section className='catalog'>
+          <section className='catalog-top'>
+            <h2 className='heading-catalog'>Репродукции</h2>
+            <div className="country-buttons">
+              <button className="france">Франция</button>
+              <button className="germany">Германия</button>
+              <button className="england">Англия</button>
+            </div>
+          </section>
+        </section>
       </main>
     </>
   )

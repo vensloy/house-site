@@ -46,3 +46,40 @@
 
     padding: 20px 60px;
 }
+
+/* ==== Catalog section ==== */
+
+/* ---- Catalog top section ----*/
+.catalog-top {
+    display: flex;
+    justify-content: space-around;
+
+    font-family: 'Raleway';
+    color: #2C2D35;
+}
+
+.heading-catalog {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.country-buttons {
+    gap: 25px;
+    display: flex;
+}
+
+.france {
+    background-color: #376B44;
+
+    padding: 10px 20px;
+    border-radius: 20px;
+
+    color: #F4F6F5;
+}
+
+.germany, .england {
+    background-color: #D4E8D9;
+
+    padding: 10px 20px;
+    border-radius: 20px;
+}
